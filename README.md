@@ -9,3 +9,7 @@ $ cd hasherdotid
 $ chmod +x hasherdotid.py
 
 $ ./hasherdotid.py
+
+if you find error, please type:
+
+$ python2 hasherdotid.py
